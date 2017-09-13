@@ -17,7 +17,7 @@ public class AirportPanelInterface {
         this.input = input;
 
     }
-
+    //starting the ui
     public void start(){
         System.out.print("Airport panel\n" +
                 "--------------------\n" );

@@ -12,6 +12,7 @@ public class Main {
 
         ui.start();
         flightService.start();
+        System.out.println("this is a test");
 
     }
 }
